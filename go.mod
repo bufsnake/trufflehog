@@ -9,13 +9,12 @@ replace github.com/jpillora/overseer => github.com/dustin-decker/overseer v1.1.7
 require (
 	cloud.google.com/go/secretmanager v1.3.0
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1465
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.162
 	github.com/aws/aws-sdk-go v1.43.27
 	github.com/aws/aws-sdk-go-v2/credentials v1.11.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.2
 	github.com/bitfinexcom/bitfinex-api-go v0.0.0-20210608095005-9e0b26f200fb
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
-	github.com/denisbrodbeck/machineid v1.0.1
 	github.com/envoyproxy/protoc-gen-validate v0.6.7
 	github.com/fatih/color v1.13.0
 	github.com/felixge/fgprof v0.9.2
@@ -94,6 +93,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
+	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b // indirect
 	github.com/pkg/diff v0.0.0-20200914180035-5b29258ca4f7 // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
